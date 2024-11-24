@@ -2,12 +2,14 @@
   "name": "Capitalist Compound Division Crypto",
   "symbol": "CCDC",
   "description": "Capitalist Compound Division Crypto (CCDC): The ultimate coin for luxury on demand. Looking for an exquisite villa for a weekend getaway or a penthouse to host your exclusive soirée? CCDC is the currency of choice for high society, offering unmatched convenience for securing premier residential spaces at a moment’s notice. With CCDC, you unlock a world of elite benefits: - Concierge Service: Need a yacht, a chef, or a last-minute symphony quartet? Just say the word. - Global Access: From Parisian lofts to Miami beachfront mansions, CCDC grants you entry to a curated selection of the world's most coveted properties. - Effortless Flexibility: No bank approvals, no delays—because your time is far too valuable. - Prestige Perks: Think priority reservations at Michelin-starred restaurants, exclusive invites to luxury events, and personal shoppers for your every whim. CCDC: Because luxury is not just a lifestyle—it’s a currency. 💎",
-  "image": "https://raw.githubusercontent.com/GabrielMichaelog/crypto-/refs/heads/main/logo_resized.png?token=GHSAT0AAAAAAC24SUO3Z3L75BCZWI5XU5J4Z2DLMTQ",
-  "decimals": 9,
-  "attributes": [
-    { "trait_type": "Currency for elitist society", "value": "Luxury" },
-    { "trait_type": "Solana Token", "value": "Pure BS" }
-  ]
+  "image": "https://raw.githubusercontent.com/GabrielMichaelog/crypto-/refs/heads/main/logo_resized.png",
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
 }
+
+
 
   
